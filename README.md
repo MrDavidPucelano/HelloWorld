@@ -1,3 +1,3 @@
 # HelloWorld
-Tutorial de Github
-mi nombre es david y soy estudiante de ies Galileo de Valladolid
+Tutorial de GitHub
+Mi nombre es David y soy estudiante del IES Galileo de Valladolid
